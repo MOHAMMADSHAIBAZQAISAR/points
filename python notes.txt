@@ -1,0 +1,15 @@
+-> python doesnt need to declare datatype with its type name
+jst assign the value to it and will get know wht type of value it has.
+-> python has four type of data sturctures 
+	1.list: we uses append() function to add data in the list.
+	-> input function is used to take input from the user.
+-> python uses def keyword to define a function...
+def function-name(arguments):
+            #function body
+
+-> we can import many lib in python 
+like math lib int that we uses fabs for absolute numbers..
+-> import keyword
+and print keyword.kwlist and it will print all keywords in the python lang..
+
+-> None keyword is void or null not equals to 0 and any empty container... does not compute to null.
