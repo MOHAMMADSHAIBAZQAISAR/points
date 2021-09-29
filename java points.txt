@@ -1,0 +1,30 @@
+1.java is case sensitive language.
+2.use stackoverflow website if error generated.....
+3.type casting (widening) : is when you assign a value of one primitive datatype to another type.
+4.for packages 1 letter should be small and then every word should begins with capital letter.
+we follow camel casing.
+5.for classes first letter should be capital and no spaces in b/w d/f words.
+ BEST WEBSITES FOR CODING
+1.GEEKS FOR GEEKS
+2.HACKEREARTH
+3.HACKERRANK 
+
+class doesnt use any memory when it is created,when we create object it use memory space.
+
+we shouuld write code in dry(Don't Repeat Yourself) manner
+in pass by value we pass the value not address changes doesn't effect on passed variable
+in pass by refernce we don't pass the value we jst pass the address and changes also effect on the main variable.
+
+And Java is always PASS BY VALUE;
+
+when constructors are created with parameters than you can't create obj w/o para... ,for that you 
+need to define a default constructor in the class.
+
+
+Two Pointers Algorithm:
+
+when u see your array is sorted then make your brain to go through it.
+ 
+
+
+
